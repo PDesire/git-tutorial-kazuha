@@ -1,0 +1,40 @@
+class Katze {
+    public string Name { get; set; }
+    public int Alter { get; set; }
+    public string Fellfarbe { get; set; }
+    public string Rasse { get; set; }
+    public string Geschlecht { get; set; }
+    public string Lieblingsfutter { get; set; }
+    public string Lieblingsspielzeug { get; set; }
+    public string Lieblingsplatz { get; set; }
+    public string Lieblingsbeschäftigung { get; set; }
+    public string Lieblingsmensch { get; set; }
+    public string Lieblingshobby { get; set; }
+    public string Lieblingsmusik { get; set; }
+    public string Lieblingsfilm { get; set; }
+    public string Lieblingsbuch { get; set; }
+    public string Lieblingsgetränk { get; set; }
+    public string Lieblingsessen { get; set; }
+    public string Lieblingsfarbe { get; set; }
+    public string Lieblingsjahreszeit { get; set; }
+    public string Lieblingswetter { get; set; }
+    public string Lieblingsland { get; set; }
+    public string Lieblingsstadt { get; set; }
+    public string Lieblingsauto { get; set; }
+    public string Lieblingsblume { get; set; }
+    public string Lieblingsbaum { get; set; }
+    public string Lieblingswaffe { get; set; }
+    public string Lieblingskleidung { get; set; }
+    public string Lieblingszitat { get; set; }
+    public string Lieblingswort { get; set; }
+    public string Lieblingszahl { get; set; }
+    public string Lieblingsbuchstabe { get; set; }
+    public string Lieblingszahlwort { get; set; }
+    public string Lieblingsbuchstabenwort { get; set; }
+    public string Lieblingszahlwortwort { get; set; }
+    public string Lieblingsbuchstabenwortwort { get; set; }
+    public string Lieblingszahlwortwortwort { get; set; }
+    public string Lieblingsbuchstabenwortwortwort { get; set; }
+    public string Lieblingszahlwortwortwortwort { get; set; }
+    public string Lieblingsbuchstabenwortwortwortwort { get;
+}
